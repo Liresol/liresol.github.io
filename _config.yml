@@ -16,7 +16,7 @@
 title: zsh Cat
 # email: missing
 description: > # this means to ignore newlines until "baseurl:"
-  There are words here. Nothing besides remains.
+  There are words here. Nothing beside remains.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.zshcat.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: missing
