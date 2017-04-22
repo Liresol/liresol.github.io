@@ -1,9 +1,0 @@
----
-layout: post
-title: "Test completed"
-date: 2017-03-24 23:42:32 -0400
-categories: test
----
-And so it is known.
-
-Both posts will most likely be removed when more important changes are made.
